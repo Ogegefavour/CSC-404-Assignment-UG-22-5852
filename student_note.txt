@@ -1,0 +1,6 @@
+# Student submission notes
+
+Submitted by: Ogege kurakongha favour
+Student ID: UG/22/5852
+
+This Week 1 submission keeps the same functionality while using a slightly different coding style.
